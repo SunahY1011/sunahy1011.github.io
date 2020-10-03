@@ -5,12 +5,13 @@ excerpt: "python을 쓰기 위한... 노오력...."
 categories: 
     - python
 tags:
-    - python / error
+    - python
+    - error
 last_modified_at: 2020-07-05T08:06:00-05:00
 ---
 
 앞으로 발생하는 모든 python error를 해결하고 정리해보자ㅠㅠㅠㅠㅠ  
-찾는건 한참이고... 해결은 금방하는... error 모음일듯..ㅠ.ㅠ  
+한참 찾았지만, 아주 별거 아닌 이유로 해결되는 문제들 모음임 ^ㅅ^ 
   
 참고) OS : Windows10
 
