@@ -3,10 +3,9 @@ title: "그동안 겪었던 Python 관련 error 모음"
 excerpt: "python을 쓰기 위한... 노오력...."
 
 categories: 
-    - python
-tags:
-    - python
-    - error
+    - Python
+    - CSE
+    - Languages
 last_modified_at: 2020-07-05T08:06:00-05:00
 ---
 
