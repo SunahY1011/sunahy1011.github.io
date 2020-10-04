@@ -20,7 +20,7 @@ title                    : "Sunah Study"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sunah Study"
-description              : "beginner/junior developer's blog"
+description              : "Sunah's study blog"
 url                      : "https://sunahy1011.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
