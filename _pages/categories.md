@@ -14,6 +14,7 @@ You can select one of the subjects or parentheses.
 
 **Computer Science and Engineering (CSE)**  
 - Languages (Python)
+- Linux
 
 **ETCs**
 - jekyll

@@ -86,26 +86,12 @@ Raw data from microarray is analyzed with DAVID, IPA.
 
 
 #### *tips
-RNA의 종류에는 두 가지가 있다.  
-**mRNA** : 단백질의 아미노산 서열 정보를 담고있음  
-**ncRNA** : 전사, splicing, 번역 등에 관여하는 RNA  
+There are two types of RNA.   
+**mRNA** : has information of protein.
+**ncRNA** : participates in transcription, splicing, and translation.  
 (tRNA, rRNA, snoRNA, miRNA, IncRNA ...)
 
-#### Array 제작 과정
-유리 slide에 알고 있는 DNA probe를 고정함 -> printing 기법으로 표면에 붙임  
-*DNA probe : 짧은 DNA, RNA 조각 / cDNA / oligonucleotide(합성한 가닥)  
-=> array를 만들 때 마다 매번 다른 array가 만들어 져 probe가 혼성화 되는 효율이 다르므로 두 샘플을 비교하려면 한 개의 array에 두 샘플을 혼성화 시켜서 비교해야한다. 
 
-#### Microarray의 장단점
-**장점**  
-- 대량의 유전자 발현 상황을 총체적으로 탐색할 수 있다.    
-
-**단점**
-- chip위에 존재하는 서열만 결합 가능하다.
-- 교차혼성화(cross hybridization)로 인한 noise 생성
-- 특정 gene과의 혼성화는 알지만, 어느 위치에서인지는 알 수 없어 RNA의 염기서열을 알 수 없음
-
-=> 이를 극복한 방법이 RNA-seq이다. 
 
 
 **Quotation**  
