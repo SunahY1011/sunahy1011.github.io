@@ -3,7 +3,7 @@ title: "What is Microarray?"
 excerpt: "Microarray란"
 
 categories: 
-    - BI & BMI
+    - BI&BMI
     - Microarray
 last_modified_at: 2020-10-03T09:00:00-01:00
 ---

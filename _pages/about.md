@@ -20,16 +20,16 @@ layout: single
 감사합니다.  
   
     
-Hello, I'm Sunah Yang and work at the Seoul National University Hospital as a researcher.  
+Hello, I'm Sunah Yang, and work at the Seoul National University Hospital as a researcher.  
   
-I feel my abilities for research are insufficient and need more study.  
-So I'll upload What I study during I'm working here.   
+I have felt my abilities for research are insufficient and need more study.  
+So I'll upload What I study while I work here.   
 The subjects that I will write are below.  
    
 If you find some mistakes or need more explains, please mail me.  
-Also my Jekyll blog has many things to change, give me your advice:)  
-Especially, I will write posts in English for study.  
-My english skills are not so good, so pleeeease let me know my mistakes...
+Also, my Jekyll blog has many things to change, give me your advice:)  
+Especially, I will write posts in English to study.  
+My English skills are not so good, so pleeeease let me know my mistakes...
 
 
 Thank you!  
