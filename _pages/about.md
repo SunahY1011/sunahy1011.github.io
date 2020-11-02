@@ -16,7 +16,7 @@ layout: single
 그리고 블로그를 업데이트 할 때 영어로도 작성해서 올리려고 합니다.  
 영어 공부를 하기 위해서 하는 건데, 혹시라도 문법 오류나 더 좋은 표현이 있다면 조언 부탁드립니다.  
   
-모든 메일과 댓글을 겸허히 그리고 감사하게 받습니다ㅠㅠ  
+모든 메일과 댓글을 감사하게 받습니다ㅠㅠ  
 감사합니다.  
   
     
@@ -26,9 +26,9 @@ I have felt my abilities for research are insufficient and need more study.
 So I'll upload What I study while I work here.   
 The subjects that I will write are below.  
    
-If you find some mistakes or need more explains, please mail me.  
-Also, my Jekyll blog has many things to change, give me your advice:)  
-Especially, I will write posts in English to study.  
+If you find some mistakes or need more explains, let me know about it.  
+Also, my Jekyll blog has many things to change, please give me your advice :)  
+Especially, I will write some posts in English to study.  
 My English skills are not so good, so pleeeease let me know my mistakes...
 
 

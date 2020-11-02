@@ -17,3 +17,7 @@ First, I started reading the Harry Potter series.
 |2020-10-14|p1-20| Dumbledore makes Potter live in Dudley Family |
 |2020-10-16|p21-30| Harry go to the zoo with Dursley as his birthday |
 |2020-10-17|p31-42| Hogwart admission letters arrive at Dudley house | 
+|2020-10-20|p42-51|  | 
+|2020-10-22|p51-60|  |
+|2020-10-26|p61-68|  | 
+|2020-10-27|p68-76|  |  
