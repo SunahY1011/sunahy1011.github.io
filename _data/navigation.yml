@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Study"
-    url: /study/
+  - title: "Bioinformatics"
+    url: /bioinformatics/
   - title: "Project"
     url: /project/
   - title: "Categories"

@@ -9,17 +9,14 @@ If you want to find something, Check how I have categorized these first.
 You can select one of the subjects or parentheses.  
   
 | Field | Category | Group |
-| --- | :--- | --- |
-| BI&BMI | Omics | file format |
-||Genomics|WGS, WES, Targeted-seq|
-||Epigenomics|Methylation|
-||Transcriptomics|RNA-seq, scRNA-seq, RNA-exome-seq|
-||Proteomics||
-||Metabolomics||
-||Microbiome||
-||others|Microarray, Cytoscape|
-| CSE | Languages | Python, R |
+| :---: | :--- | --- |
+| Bioinformatics | Sequencing | Omics, Target-Seq, RNA-seq |
+|| Data | Kits, Sites |
+|| Tools | [Analysis Tools](), [Visualization Tools]() |
+||Paper||  
+| Computer Science Engineering | Languages | Python, R, Markdown |
 ||Linux||
+||Web programming||
 |ETCs|Jekyll||
 ||English||  
   
