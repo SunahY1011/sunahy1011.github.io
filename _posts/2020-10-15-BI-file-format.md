@@ -20,21 +20,20 @@ BI 분석을 하다 보면 굉장히 많은 file format들을 만나는데, 자�
 ### vcf file
 https://gatk.broadinstitute.org/hc/en-us/articles/360036725531--Tool-Documentation-Index
 
-info field
-AC : 
-AF : 
-AN : 
-DP : 
-Excess Het : Phred-scaled p-value for exact test of excess heterozygosity
-FS : Strand bias estimated using Fisher's exact test
-MLEAC : 
-MLEAF : 
-MQ : Root mean square of the mapping quality of reads across all samples
-QD : Qual By Depth
-        Quality score normalized by allele depth (AD) 
-        각 read가 quality score에 일부 기여하기 때문에, deep coverage가 있는 위치의 변이는 인위적으로 과장된 quality score를 가질 수 있다.
-        그러면 실제 quality 보다 더 높게 평가될 수 있다
-SOR : 
-BaseQRankSum : Rank sum test of REF versus ALT base quality scores
-MQRankSum : 
-
+info field  
+AC :   
+AF :   
+AN :   
+DP :   
+Excess Het : Phred-scaled p-value for exact test of excess heterozygosity  
+FS : Strand bias estimated using Fisher's exact test  
+MLEAC :   
+MLEAF :   
+MQ : Root mean square of the mapping quality of reads across all samples  
+QD : Qual By Depth  
+        Quality score normalized by allele depth (AD)   
+        각 read가 quality score에 일부 기여하기 때문에, deep coverage가 있는 위치의 변이는 인위적으로 과장된 quality score를 가질 수 있다.  
+        그러면 실제 quality 보다 더 높게 평가될 수 있다  
+SOR :   
+BaseQRankSum : Rank sum test of REF versus ALT base quality scores  
+MQRankSum :   
