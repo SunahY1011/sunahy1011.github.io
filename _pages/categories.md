@@ -10,8 +10,8 @@ You can select one of the subjects or parentheses.
   
 | Field | Category | Group |
 | :---: | :--- | --- |
-| Bioinformatics | Sequencing | Omics, Target-Seq, RNA-seq |
-|| Data | Kits, Sites |
+| Bioinformatics | Sequencing | [Omics]((https://sunahy1011.github.io/bioinformatics/sequencing/Omics/)), Target-Seq, RNA-seq |
+|| Data | Kits, Sites, Formats |
 || Tools | [Analysis Tools](), [Visualization Tools]() |
 ||Paper||  
 | Computer Science Engineering | Languages | Python, R, Markdown |

@@ -6,8 +6,7 @@ author_profile: true
 ---
 
   
-## Bioinformatics / Biomedical Informatics
-[What is Omics?](https://sunahy1011.github.io/bioinformatics/omics/Omics/)  
+[What is Omics?](https://sunahy1011.github.io/bioinformatics/sequencing/Omics/)  
 
 ## Omics
 #### 1. Genomics
