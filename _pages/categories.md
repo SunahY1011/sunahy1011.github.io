@@ -10,7 +10,7 @@ You can select one of the subjects or parentheses.
   
 | Field | Category | Group |
 | :---: | :--- | --- |
-| Bioinformatics | Sequencing | [Omics](https://sunahy1011.github.io/bioinformatics/sequencing/Omics/), Kits, Tools |
+| Bioinformatics | [Omics](https://sunahy1011.github.io/bioinformatics/sequencing/Omics/) | Sequencing, Kits, Tools |
 || Data | Sites, Formats |
 || Study | Biology, Medical, Statistics |
 ||Paper||  
