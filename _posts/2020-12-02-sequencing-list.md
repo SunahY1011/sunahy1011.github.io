@@ -34,6 +34,8 @@ Microarray
 RNA-seq  
 RNA-exome-seq  
 miRNA-seq  
+Quartz-seq : single cell에 적용하기 위해 전사체 전체를 증폭시키는 방법, 3'말단의 전사에 관심있을 때 사용  
+
 
 ### Proteomics
 
